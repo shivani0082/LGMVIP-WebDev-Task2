@@ -1,7 +1,7 @@
 # LGMVIP-WebDev-Task2
 Web Application Using Create-React-App
 
-To Run the App steps:
+To Run the App Steps:
 
 Clone the Repository
 
